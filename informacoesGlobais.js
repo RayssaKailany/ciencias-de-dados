@@ -2,3 +2,6 @@ const url = 'https://raw.githubusercontent.com/guilhermeonrails/api/main/dados-g
 
 console.log(url);
 
+async function vizualizarInformacoesGlobais() {
+
+}
