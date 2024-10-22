@@ -14,10 +14,7 @@ body {
     height: 100vh;
     margin: 0;
 }
-h1 {
-    font-size: 2rem;
-    color: var(--bg-color);
-}
+
 h1 {
     font-size: 2rem;
     color: var(--bg-color);
@@ -28,10 +25,7 @@ nav {
     justify-content: center;
     font-weight: 400;
 }
-nav a {
-    text-decoration: none;
-    color: var(--bg-color);
-}
+
 nav a {
     text-decoration: none;
     color: var(--bg-color);
