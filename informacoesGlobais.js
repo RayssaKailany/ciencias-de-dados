@@ -14,3 +14,8 @@ async function vizualizarInformacoesGlobais() {
 vizualizarInformacoesGlobais()
 
 paragrafo.innerHTML = `Você sabia que o mundo tem ${dados.total_pessoas_mundo} de pessoas e que aproximadamente `
+
+// código omitido
+
+const container = document.getElementById('graficos-container')
+container.appendChild(paragrafo)
