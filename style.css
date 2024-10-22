@@ -26,11 +26,6 @@ nav {
     font-weight: 400;
 }
 
-nav a {
-    text-decoration: none;
-    color: var(--bg-color);
-     margin: 0rem 2rem 1rem 0rem;
-}
 header {
     background-color: var(--primary-color);
     text-align: center;
@@ -47,11 +42,7 @@ nav a:hover {
     transform: scale(0.90);
     transition: transform 0.1s;
 }
-footer {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
+
 footer {
     display: flex;
     align-items: center;
