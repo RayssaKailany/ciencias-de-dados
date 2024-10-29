@@ -4,5 +4,6 @@ async function quantidadeUsuarios() {
     const dados = await res.json()
       
       console.log(dados)
-  }
   
+  quantidadeUsuarios()
+
